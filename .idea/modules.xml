@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-introduccion-java/01-introduccion-java.iml" filepath="$PROJECT_DIR$/01-introduccion-java/01-introduccion-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/01-master-java.iml" filepath="$PROJECT_DIR$/.idea/01-master-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-programacion-orientada-objetos/02-programacion-orientada-objetos.iml" filepath="$PROJECT_DIR$/02-programacion-orientada-objetos/02-programacion-orientada-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-genericos/03-genericos.iml" filepath="$PROJECT_DIR$/03-genericos/03-genericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-excepciones/04-excepciones.iml" filepath="$PROJECT_DIR$/04-excepciones/04-excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-estructura-datos/05-estructura-datos.iml" filepath="$PROJECT_DIR$/05-estructura-datos/05-estructura-datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-hilos-concurrencia/06-hilos-concurrencia.iml" filepath="$PROJECT_DIR$/06-hilos-concurrencia/06-hilos-concurrencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-programacion-funcional/07-programacion-funcional.iml" filepath="$PROJECT_DIR$/07-programacion-funcional/07-programacion-funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-java-data-time/08-java-data-time.iml" filepath="$PROJECT_DIR$/08-java-data-time/08-java-data-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-anotaciones/09-anotaciones.iml" filepath="$PROJECT_DIR$/09-anotaciones/09-anotaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-recursividad/10-recursividad.iml" filepath="$PROJECT_DIR$/10-recursividad/10-recursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-patrones-diseno/11-patrones-diseno.iml" filepath="$PROJECT_DIR$/11-patrones-diseno/11-patrones-diseno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-manejo-archivos/12-manejo-archivos.iml" filepath="$PROJECT_DIR$/12-manejo-archivos/12-manejo-archivos.iml" />
+    </modules>
+  </component>
+</project>
